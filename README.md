@@ -2,6 +2,9 @@
 
 ![Design preview for the QR code component coding challenge](./preview.jpg)
 
+## Live Privew 
+[Qr Code](https://parvezia.github.io/qr-code-component/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
